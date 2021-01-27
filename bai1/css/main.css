@@ -1,0 +1,19 @@
+/* CSS Document */
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#box{
+	width: 100%;
+	height: 100vh;
+	background: url(../img/2.png),url(../img/1.png),url(../img/Back.jpg);
+	background-size: 500px,300px,cover;
+	background-repeat: no-repeat;
+	background-position: 85%,15% 90% ,0;
+	
+}
+	
+	
+	
+	
